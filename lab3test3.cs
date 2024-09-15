@@ -17,4 +17,8 @@ public class A
     {
         return y + a;
     }
+     public static int Rtest(int a, int y)
+    {
+        return y + a;
+    }
 }
